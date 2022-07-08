@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://ppf.one/mortal">
+        <button>BANA TIKLA</button>
+    </a>
+
 <!--
 **mo4tal/mo4tal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
