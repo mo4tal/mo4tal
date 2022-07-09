@@ -1,4 +1,5 @@
 <div align="center">
+<img align="center" src="https://media.discordapp.net/attachments/982933112172462120/995277683174944829/Baslksz-1_16.png?width=671&height=671" alt="mo4tal" style="border-radius: 50%; object-fit: cover; height: 250px;" /><br><br>
 <h1 align="center">Hi 👋, I'm Mortal!</h1>
 <h3 align="center">A passionate frontend developer from Turkey! 🇹🇷</h3>
 
