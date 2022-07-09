@@ -16,9 +16,9 @@
 - 💬 Ask me about **Discord.js 😎**
 
 - 📫 How to reach me **🌺 [My Discord Profile](https://www.discord.com/users/519183075058515969)**
-<br>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/519183075058515969?theme=dark&bg=0c0c0c)](https://discord.com/users/519183075058515969)
-<br>
+    
+<img align="center" src="https://lanyard-profile-readme.vercel.app/api/519183075058515969?theme=dark&bg=0c0c0c" alt="mo4tal" style="object-fit: cover; height: 1024px;" />
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mrmorta77611928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmorta77611928" height="30" width="40" /></a>
