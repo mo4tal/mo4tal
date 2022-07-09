@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Discord.js 😎**
 
-- 📫 How to reach me **https://www.discord.com/users/519183075058515969**
+- 📫 How to reach me **[Discord](https://www.discord.com/users/519183075058515969)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
