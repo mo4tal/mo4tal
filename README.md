@@ -41,5 +41,6 @@
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo4tal&theme=dark" alt="mo4tal" /><br><br>
     
-<img align="center" src="https://media.discordapp.net/attachments/982933112172462120/995272967925805106/Mortal_Afis_Deneme.png?width=1193&height=671" alt="mo4tal" /><br>
+<img align="center" src="https://media.discordapp.net/attachments/982933112172462120/995295128832974908/Mortal_Afis_Deneme_kopya.png" alt="mo4tal" /><br>
+    
 </div> 
