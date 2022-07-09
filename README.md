@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" src="https://media.discordapp.net/attachments/982933112172462120/995282287686078464/Mortal_1000px_15-12-21_kopyakopya.png" alt="mo4tal" style="object-fit: cover; height: 250px;" /><br><br>
 <h1 align="center">Hi 👋, I'm Mortal!</h1>
-<img align="center" src="https://lanyard-profile-readme.vercel.app/api/519183075058515969?theme=dark&bg=0c0c0c" alt="mo4tal" style="object-fit: cover;" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/519183075058515969)](https://discord.com/users/519183075058515969)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo4tal&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=32b37b&style=flat" alt="mo4tal" /> </p>
 
