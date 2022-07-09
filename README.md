@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" src="https://media.discordapp.net/attachments/982933112172462120/995281780036866078/Mortal_1000px_15-12-21_kopya.png" alt="mo4tal" style="object-fit: cover; height: 250px;" /><br><br>
+<img align="center" src="https://media.discordapp.net/attachments/982933112172462120/995282287686078464/Mortal_1000px_15-12-21_kopyakopya.png" alt="mo4tal" style="object-fit: cover; height: 250px;" /><br><br>
 <h1 align="center">Hi 👋, I'm Mortal!</h1>
 <h3 align="center">A passionate frontend developer from Turkey! 🇹🇷</h3>
 
