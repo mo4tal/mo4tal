@@ -3,16 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo4tal&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=32b37b&style=flat" alt="mo4tal" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo4tal" alt="mo4tal" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mrmorta77611928" target="blank"><img src="https://img.shields.io/twitter/follow/mrmorta77611928?logo=twitter&style=for-the-badge" alt="mrmorta77611928" /></a> </p>
+
 - 🔭 I’m currently working on [Akın](https://www.discord.com/users/987701697130426368)
 
 - 🌱 I’m currently learning **Web Programming**
 
 - 💬 Ask me about **Discord.js 😎**
 
-- 📫 How to reach me **🌺 [My Discord Profile](https://www.discord.com/users/519183075058515969)**
+- 📫 How to reach me **https://www.discord.com/users/519183075058515969**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mrmorta77611928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrmorta77611928" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.mo4tal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.mo4tal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mr. mortal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr. mortal" height="30" width="40" /></a>
 <a href="https://discord.gg/9rgt5Dzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9rgt5Dzn" height="30" width="40" /></a>
@@ -23,7 +28,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrmo4talt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrmo4talt" /></a></p><br><br>
-<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo4tal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mo4tal" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo4tal&show_icons=true&locale=en" alt="mo4tal" /></p>
-<br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo4tal&theme=dark" alt="mo4tal" /></p>
