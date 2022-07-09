@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo4tal&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenme&color=32b37b&style=flat" alt="mo4tal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo4tal" alt="mo4tal" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo4tal" alt="mo4tal" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/mrmorta77611928" target="blank"><img src="https://img.shields.io/twitter/follow/mrmorta77611928?logo=twitter&style=for-the-badge" alt="mrmorta77611928" /></a> </p>
 
@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo4tal&show_icons=true&locale=en" alt="mo4tal" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo4tal&theme=dark" alt="mo4tal" /></p>
+
+<p><img align="center" src="https://media.discordapp.net/attachments/982933112172462120/995272967925805106/Mortal_Afis_Deneme.png?width=1193&height=671" alt="mo4tal" /></p>
