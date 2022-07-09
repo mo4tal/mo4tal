@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **🌺 [My Discord Profile](https://www.discord.com/users/519183075058515969)**
     
-<img align="center" src="https://lanyard-profile-readme.vercel.app/api/519183075058515969?theme=dark&bg=0c0c0c" alt="mo4tal" style="object-fit: cover; height: 1024px;" />
+<img align="center" src="https://lanyard-profile-readme.vercel.app/api/519183075058515969?theme=dark&bg=0c0c0c" alt="mo4tal" style="object-fit: cover;" />
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
