@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Discord.js 😎**
 
-- 📫 How to reach me **[Discord](https://www.discord.com/users/519183075058515969)**
+- 📫 How to reach me **https://www.discord.com/users/519183075058515969**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrmo4talt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrmo4talt" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo4tal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mo4tal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mo4tal&show_icons=true&locale=en" alt="mo4tal" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo4tal&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="mo4tal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mo4tal&theme=dark" alt="mo4tal" /></p>
